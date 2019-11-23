@@ -1,0 +1,14 @@
+name: error-control-statistical-tests-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - pandas
+  - pandasql
+  - sklearn
+  - skopt
