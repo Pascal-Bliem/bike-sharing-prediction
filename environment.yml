@@ -11,4 +11,5 @@ dependencies:
   - pandas
   - pandasql
   - scikit-learn
-  - scikit-optimize
+  -pip:
+    - scikit-optimize
